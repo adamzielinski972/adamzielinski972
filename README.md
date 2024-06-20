@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fourth year computer science student @University of Guelph.<br>Passionate about mobile and web development.<br>Currently learning about machine learning and AI.<br>A fun fact about me is I'm a varsity swimmer @University of Guelph.<br>Here's a link to my personal portfolio website! https://adamzielinski972.github.io/
+Fourth year computer science student @University of Guelph.<br>Passionate about mobile and web development.<br>Currently learning about machine learning and AI.<br>A fun fact about me is I'm a varsity swimmer @ University of Guelph.<br>Here's a link to my personal portfolio website! https://adamzielinski972.github.io/
 
 
 ## 🌐 Socials:
